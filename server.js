@@ -1,3 +1,4 @@
+require('@synopsys-sig/seeker-inline');
 var express = require( 'express')
 var app = express()
 var cf_app = require( './app/vcap_application')
